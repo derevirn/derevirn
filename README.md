@@ -1,6 +1,6 @@
 ### Welcome to my Github Page!
 
-I am passionate about data science, machine learning and data visualization. My goal is to be involved in projects that utilize data science to mitigate climate change, air pollution and help achieve the sustainable development goals in general. I am also a [contributing writer](https://giannistolios.medium.com/) at established websites such as Towards Data Science and Analytics Vidhya. Feel free to check my portfolio of projects, or visit my [personal website](https://giannis.io/) for more details about me.
+I am passionate about data science, machine learning and data visualization. My goal is to be involved in projects that utilize data science to mitigate climate change, air pollution and help achieve the sustainable development goals in general. I am also a [contributing writer](https://giannistolios.medium.com/) at established websites such as Towards Data Science and Analytics Vidhya. Furthermore, I have published a book titled Simplifying Machine Learning with PyCaret, which quickly became a best seller in the associated category of Leanpub. You can see more information at the [official website](https://leanpub.com/pycaretbook/) or the associated [repository](https://github.com/derevirn/pycaret-book). Feel free to check my portfolio of projects, or visit my [personal website](https://giannis.io/) for more details about me.
 
 <!--
 **derevirn/derevirn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
