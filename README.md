@@ -5,12 +5,10 @@ I am a data scientist who is passionate about machine learning and data visualiz
 ![](https://github-readme-stats.vercel.app/api?username=derevirn&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true)
 
 ### My Websites
-<a href="https://linkedin.com/in/giannis-tolios" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@giannistolios" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
+[![giannis](https://img.shields.io/static/v1?style=for-the-badge&message=giannis.io&color=blue&logoColor=FFFFFF&label=)](https://giannis.io)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giannis-tolios)
+[![Medium](https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@giannistolios)
+[![Leanpub](https://img.shields.io/static/v1?style=for-the-badge&message=Leanpub&color=222222&logo=Leanpub&logoColor=FFFFFF&label=)](https://leanpub.com/u/giannis-tolios)
 
 ### Data Science Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
