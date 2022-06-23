@@ -2,7 +2,7 @@
 ### Welcome to my Github Profile!
 I am a data scientist who is passionate about machine learning and data visualization. My goal is to utilize data science to mitigate climate change and help accomplish the UN Sustainable Development Goals. I am also a [contributing writer](https://giannistolios.medium.com/) at established websites such as Towards Data Science and Analytics Vidhya. Furthermore, I have also published a book titled [Simplifying Machine Learning with PyCaret](https://leanpub.com/pycaretbook/), that quickly became a best seller at Leanpub. I encourage you to check my data science portfolio below, or visit my [personal website](https://giannis.io/) for more details about me.
 
-![](https://github-readme-stats.vercel.app/api?username=derevirn&theme=blue&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=derevirn&theme=blue&hide_border=true&include_all_commits=true&count_private=true)
 
 ### My Websites
 [![giannis](https://img.shields.io/static/v1?style=for-the-badge&message=giannis.io&color=blue&logoColor=FFFFFF&label=)](https://giannis.io)
