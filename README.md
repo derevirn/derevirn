@@ -4,6 +4,9 @@ I am a data scientist who is passionate about machine learning and data visualiz
 
 ![](https://github-readme-stats.vercel.app/api?username=derevirn&theme=blue&hide_border=true&include_all_commits=true&count_private=true)
 
+### My Latest Towards Data Science Article
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@giannistolios/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@giannistolios/1" alt="Latest TDS Article">
+
 ### My Websites
 [![giannis](https://img.shields.io/static/v1?style=for-the-badge&message=giannis.io&color=blue&logoColor=FFFFFF&label=)](https://giannis.io)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giannis-tolios)
